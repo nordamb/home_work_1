@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a63a1304-7475-4d0f-9858-f25f8f127d09" name="Changes" comment="">
+    <list default="true" id="a63a1304-7475-4d0f-9858-f25f8f127d09" name="Changes" comment="Homework done">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWorkEasy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWorkHard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWorkMedium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWorkHard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWorkHard.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HomeWorkMedium">
+  <component name="RunManager" selected="Application.HomeWorkHard">
     <configuration name="HomeWorkEasy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWorkEasy" />
       <module name="home_work_1" />
@@ -66,9 +59,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeWorkHard" />
         <item itemvalue="Application.HomeWorkMedium" />
         <item itemvalue="Application.HomeWorkEasy" />
-        <item itemvalue="Application.HomeWorkHard" />
       </list>
     </recent_temporary>
   </component>
@@ -81,6 +74,14 @@
       <option name="presentableId" value="Default" />
       <updated>1654582366661</updated>
     </task>
+    <task id="LOCAL-00001" summary="Homework done">
+      <created>1654713163212</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654713163212</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,5 +94,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Homework done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework done" />
   </component>
 </project>

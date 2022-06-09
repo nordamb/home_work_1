@@ -52,9 +52,10 @@ public class HomeWorkHard {
     }
 
     public static void maskPhoneNumber(String phoneNumber, StringBuilder maskingText) {
+        StringBuilder stringPhoneNumber = new StringBuilder(phoneNumber);
         int start = maskingText.indexOf(phoneNumber);
         int end = start + phoneNumber.length();
-        maskingText.replace(start, end, phoneNumber.replaceAll("1", "*"));
+        maskingText.replace(start, end, stringPhoneNumber.replace(4, 7, "***").toString());
     }
 
     public static void maskFullName(String fullName, StringBuilder maskingText) {

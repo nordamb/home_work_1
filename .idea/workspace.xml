@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a63a1304-7475-4d0f-9858-f25f8f127d09" name="Changes" comment="Homework done">
+    <list default="true" id="a63a1304-7475-4d0f-9858-f25f8f127d09" name="Changes" comment="Change maskPhoneNumber">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HomeWorkHard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWorkHard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWorkMedium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWorkMedium.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HomeWorkHard">
+  <component name="RunManager" selected="Application.HomeWorkMedium">
     <configuration name="HomeWorkEasy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWorkEasy" />
       <module name="home_work_1" />
@@ -59,8 +61,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HomeWorkHard" />
         <item itemvalue="Application.HomeWorkMedium" />
+        <item itemvalue="Application.HomeWorkHard" />
         <item itemvalue="Application.HomeWorkEasy" />
       </list>
     </recent_temporary>
@@ -81,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654713163212</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Change maskPhoneNumber">
+      <created>1654749252768</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654749252769</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +106,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Homework done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework done" />
+    <MESSAGE value="Change maskPhoneNumber" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change maskPhoneNumber" />
   </component>
 </project>
